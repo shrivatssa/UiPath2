@@ -76,6 +76,7 @@
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="416,119.42857142857143" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;test1&quot;]" />
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="416,110.28571428571429" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[&quot;test2&quot;]" />
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="416,119.42857142857143" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[&quot;test2&quot;]" />
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="416,110.28571428571429" sap2010:WorkflowViewState.IdRef="MessageBox_3" Text="[&quot;Test3&quot;]" />
   </Sequence>
 </Activity>
